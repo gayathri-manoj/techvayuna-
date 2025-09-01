@@ -65,6 +65,7 @@ nav ul li a.active {
 }
 
 .btn {
+  margin-top: 20px;
   display: inline-block;
   padding: 12px 25px;
   background: #f39c12;
@@ -203,3 +204,4 @@ html {
     padding: 10px 20px;
   }
 }
+
