@@ -1,5 +1,7 @@
 # Landing Page for TechVayuna
 
+Drive link for Task 2: [google drive](https://drive.google.com/drive/folders/1n_Y4_UGiTp1lIi-RdLDhgWyCeupSX0P8?usp=drive_link)
+
 Hosted with Vercel and you can find the website [here](https://techvayuna-landing-page.vercel.app/)
 
 This is a responsive landing page for **TechVayuna**, a technical club run by students at **SRM IST, Ramapuram**. 
@@ -15,6 +17,7 @@ This section provides an overview of TechVayuna, including its mission and core 
 - **Smooth Scrolling Navigation:** Clickable header links navigate to various sections with ease.  
 
 The page is prepared for deployment using **Vercel** and utilizes **HTML5, CSS3, and Font Awesome icons**.
+
 
 
 
