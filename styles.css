@@ -83,16 +83,16 @@ nav ul li a.active {
 .about {
   display: flex;
   flex-direction: column;
-  justify-content: center; /* vertical centering */
-  align-items: center;     /* horizontal centering */
-  text-align: center;      /* ensures text itself is centered */
+  justify-content: center; 
+  align-items: center;     
+  text-align: center;      
   padding: 40px 20px;
   max-width: 800px;
   margin: 40px auto;
   background: #fff;
   border-radius: 12px;
   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-  min-height: 300px;       /* optional: ensures box has some height */
+  min-height: 300px;       
 }
 
 .about h2 {
@@ -204,4 +204,5 @@ html {
     padding: 10px 20px;
   }
 }
+
 
