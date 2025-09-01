@@ -1,6 +1,6 @@
 # Landing Page for TechVayuna
 
-Hosted at ve [here](https://techvayuna-landing-page.vercel.app/)
+Hosted at Vercel and you can find the website [here](https://techvayuna-landing-page.vercel.app/)
 
 This is a responsive landing page for **TechVayuna**, a technical club run by students at **SRM IST, Ramapuram**. 
 The page invites students to join by introducing the club, outlining its goals, and showcasing forthcoming events. 
@@ -13,7 +13,8 @@ Students are urged to join the club by means of an external form link in the **C
 Mobile devices, tablets, and PCs all benefit from responsive design.  
 - **Smooth Scrolling Navigation:** Clickable header links navigate to various sections with ease.  
 
-The page is prepared for deployment using **GitHub Pages** and utilizes **HTML5, CSS3, and Font Awesome icons**.
+The page is prepared for deployment using **Vercel** and utilizes **HTML5, CSS3, and Font Awesome icons**.
+
 
 
 
