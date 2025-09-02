@@ -19,6 +19,7 @@ This section provides an overview of TechVayuna, including its mission and core 
 The page is prepared for deployment using **Vercel** and utilizes **HTML5, CSS3, and Font Awesome icons**.
 
 
+![screenshot](screenshot.jpeg)
 
 
 
